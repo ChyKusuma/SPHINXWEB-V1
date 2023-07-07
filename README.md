@@ -15,7 +15,7 @@ We appreciate your understanding and look forward to collaborative efforts in sh
 
 ## Getting Started
 
-To get started with the SPHINXMiner project, follow these steps:
+To get started with the SPHINXWEB project, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/your-username/SPHINXWEB-V1.git`
 2. Install the necessary dependencies.
