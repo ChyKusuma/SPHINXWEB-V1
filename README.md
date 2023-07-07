@@ -4,12 +4,13 @@
 
 This project is dedicated to the world community as an Open-source Post-quantum SPHINX blockchain, means anyone can join and contribute based on his/ her passion and skills. SPHINX is a blockchain protocol designed to provide secure and scalable solutions in the post-quantum era. The project aims to develop a robust and decentralized network using a Proof of Work (PoW) consensus algorithm initiated by the community. We thrilled to introduce a new design for Proof-of-Work operation.
 
-# Components
 
-### Index.html
-### docs.html
-### //codrops 
-### //assets
+### This repository is part of the framework of sphinx website V1
+
+Is currently in development and not fully integrated or extensively tested for functionality.
+As the project progresses, further updates and enhancements will be made to ensure the code's stability and reliability. We encourage contributors to participate in improving and refining the SPHINXPoW algorithm by submitting pull requests and providing valuable insights.
+
+We appreciate your understanding and look forward to collaborative efforts in shaping the future of the SPHINX blockchain project.
 
 
 ## Getting Started
@@ -21,12 +22,6 @@ To get started with the SPHINXMiner project, follow these steps:
 3. Explore the codebase to understand the project structure and components.
 4. Use the provided functions to mine blocks in the SPHINX blockchain.
 
-### This repository is part of the framework of sphinx web v1
-
-Is currently in development and not fully integrated or extensively tested for functionality.
-As the project progresses, further updates and enhancements will be made to ensure the code's stability and reliability. We encourage contributors to participate in improving and refining the SPHINXPoW algorithm by submitting pull requests and providing valuable insights.
-
-We appreciate your understanding and look forward to collaborative efforts in shaping the future of the SPHINX blockchain project.
 
 # Getting Started
 To get started with the SPHINX blockchain project, follow the instructions below:
