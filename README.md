@@ -17,19 +17,10 @@ We appreciate your understanding and look forward to collaborative efforts in sh
 
 To get started with the SPHINXMiner project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/SPHINXMiner.git`
+1. Clone the repository: `git clone https://github.com/your-username/SPHINXWEB-V1.git`
 2. Install the necessary dependencies.
 3. Explore the codebase to understand the project structure and components.
 4. Use the provided functions to mine blocks in the SPHINX blockchain.
-
-
-# Getting Started
-To get started with the SPHINX blockchain project, follow the instructions below:
-
-1. Clone the repository: `git clone https://github.com/ChyKusuma/SPHINXPoW.git`
-2. Install the necessary dependencies (List the dependencies or provide a link to the installation guide).
-3. Explore the codebase to understand the project structure and components.
-4. Run the project or make modifications as needed.
 
 
 ## Contributing
