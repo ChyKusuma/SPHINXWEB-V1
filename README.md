@@ -8,7 +8,7 @@ This project is dedicated to the world community as an Open-source Post-quantum 
 ### This repository is part of the framework of sphinx website V1
 
 Is currently in development and not fully integrated or extensively tested for functionality.
-As the project progresses, further updates and enhancements will be made to ensure the code's stability and reliability. We encourage contributors to participate in improving and refining the SPHINXPoW algorithm by submitting pull requests and providing valuable insights.
+As the project progresses, further updates and enhancements will be made to ensure the code's stability and reliability. We encourage contributors to participate in improving and refining the function by submitting pull requests and providing valuable insights.
 
 We appreciate your understanding and look forward to collaborative efforts in shaping the future of the SPHINX blockchain project.
 
